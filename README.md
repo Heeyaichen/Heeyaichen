@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Heeyaichen
-- 👀 I’m interested in Cloud Computing & DevOps Engineering
+- 👀 I’m interested in Cloud Engineering
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on anything cloud related projects.
 - ⚡ Fun fact: I love Guitars
