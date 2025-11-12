@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heeyaichen
-- 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in Cloud Engineering, Software Engineering.
+- 🌱 I’m currently learning Azure AI/ML
 - 💞️ I’m looking to collaborate on anything cloud related projects.
 - ⚡ Fun fact: I love Guitars
 
